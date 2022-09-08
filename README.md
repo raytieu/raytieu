@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+[![Raymond's GitHub stats](https://github-readme-stats.vercel.app/api?username=raytieu&show_icons=true&theme=dark)](https://github.com/raytieu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raytieu&layout=compact&show_icons=true&theme=dark)](https://github.com/raytieu/github-readme-stats)
 <!--
 **raytieu/raytieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
